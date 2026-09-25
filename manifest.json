@@ -1,0 +1,11 @@
+{
+  "name": "Shankar Beej Bhandar",
+  "short_name": "SBB",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f6f3eb",
+  "theme_color": "#165c48",
+  "orientation": "portrait",
+  "description": "Private shop management app for Shankar Beej Bhandar",
+  "icons": []
+}
